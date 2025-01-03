@@ -1,0 +1,37 @@
+.shyam{ position:relative ;
+    left: 150px;}
+
+.sagar{color: aquamarine;
+position: relative;
+top: -10px;
+}
+
+.id{background: color #404273;
+
+position: relative;
+top: 100px;
+
+color: #fcfdfe;
+
+}
+
+.status{ color: black;}
+
+.id2{ position: relative;
+top: -30px;
+color: #f5f5f5;
+}
+
+.id3{position: relative;
+top: -50px;
+color: #f2f3f4;
+}
+.id4{position: relative;
+top: -50px;
+
+color: #fefeff;
+
+}
+body{background-color: #1d2033;
+
+}
